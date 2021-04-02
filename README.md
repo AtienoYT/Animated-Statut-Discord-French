@@ -24,6 +24,7 @@ Entrez les informations requises dans les champs de saisie et cliquez sur Enregi
 # Délai d'expiration / temps par image clé
 
 La valeur spécifie la durée de chaque étape d'animation en millisecondes. Exemple: avec un délai d'expiration de 2000, l'animation suivante prendrait 4 secondes pour se terminer
+
 "abc"
 "def"
 Pour empêcher le serveur Discord d'être spammé avec des demandes, le délai d'expiration minimum autorisé est codé en dur à 2,9 secondes.

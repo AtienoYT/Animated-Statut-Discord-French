@@ -1,4 +1,3 @@
-[animated-status.plugin.zip](https://github.com/AtienoYT/Animated-Statut-Discord-French/files/6250137/animated-status.plugin.zip)
 # Animated-Statut-Discord-French
 
 Le plugin Animated statut de BetterDiscord entièrement traduit en Français pour votre plus grand plaisir

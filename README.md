@@ -7,8 +7,11 @@ Le plugin Animated statut de BetterDiscord entièrement traduit en Français pou
 
 Installe BetterDiscord
 Télécharge animated-status.plugin.js dans le répertoire suivant
+
 Mac: ~/Library/Preferences/BetterDiscord
+
 Windows: %appdata%\BetterDiscord\plugins
+
 Linux: ~/.config/BetterDiscord/plugins
 
 

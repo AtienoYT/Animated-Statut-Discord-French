@@ -27,6 +27,7 @@ La valeur spécifie la durée de chaque étape d'animation en millisecondes. Exe
 
 "abc"
 "def"
+
 Pour empêcher le serveur Discord d'être spammé avec des demandes, le délai d'expiration minimum autorisé est codé en dur à 2,9 secondes.
 Logiquement, le délai d'expiration de l'animation doit être d'au moins 29 000, au mieux de 10 000 millisecondes (10 secondes) pour que l'animation soit fluide sur les autres clients.
 Dans l'application mobile, l'état n'est pas mis à jour de manière cohérente, c'est-à-dire que la liste des membres du serveur est mise à jour en fonction des actions des utilisateurs dans l'application. Ne soyez pas surpris si l'animation ne semble pas fluide ou saute des images.
